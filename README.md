@@ -6,6 +6,7 @@ all the examples, submoduled into one repository for your convenience
 to get this:
 
     git clone git@github.com:backend-development/rails-examples.git
+    cd rails-examples
     git submodule init
     git submodule update 
 
