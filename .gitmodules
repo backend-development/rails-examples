@@ -1,0 +1,12 @@
+[submodule "a-kanban-board"]
+	path = a-kanban-board
+	url = git://github.com/backend-development/rails-example-kanban-board.git
+[submodule "b-recipes"]
+	path = b-recipes
+	url = git://github.com/backend-development/rails-example-recipes.git
+[submodule "c-testing-for-stars"]
+	path = c-testing-for-stars
+	url = git://github.com/backend-development/rails-example-testing-for-stars.git
+[submodule "d-polymorphic-miniblog"]
+	path = d-polymorphic-miniblog
+	url = git://github.com/backend-development/rails-example-polymorphic-miniblog.git
